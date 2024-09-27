@@ -1,0 +1,11 @@
+Location,Time,Weather,road condition,Vehicle-type,Injury-severity
+Downtown,08:00,Clear,Dry,Car,Minor
+suburb,17:30,Rain,Wet,Truck,Severe
+Highway,14:00,Foggy,Dry,Motorcycle,Fatal
+Downtown,22:00,Clear,Dry,Car,Minor
+suburb,09:00,Rain,Wet,Bus,Moderate
+Highway,18:00,Clear,Dry,Car,Severe
+Downtown,07:30,Clear,Dry,Bicycle,Minor
+suburb,20:00,snowy,Icy,Car,Severe
+Highway,12:00,Clear,Dry,Truck,Moderate
+Downtown,15:00,Rain,Wet,Motorcycle,Minor
